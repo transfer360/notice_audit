@@ -1,6 +1,6 @@
 module github.com/transfer360/notice_audit
 
-go 1.23.3
+go 1.26.0
 
 require (
 	cloud.google.com/go/pubsub v1.47.0
