@@ -3,7 +3,7 @@ module github.com/transfer360/notice_audit
 go 1.26.0
 
 require (
-	cloud.google.com/go/pubsub v1.50.2
+	cloud.google.com/go/pubsub v1.51.1
 	github.com/joonix/log v0.0.0-20230221083239-7988383bab32
 	github.com/sirupsen/logrus v1.9.4
 )
@@ -42,6 +42,6 @@ require (
 	google.golang.org/genproto v0.0.0-20260319201613-d00831a3d3e7 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20260630182238-925bb5da69e7 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260630182238-925bb5da69e7 // indirect
-	google.golang.org/grpc v1.82.0 // indirect
+	google.golang.org/grpc v1.82.1 // indirect
 	google.golang.org/protobuf v1.36.11 // indirect
 )
